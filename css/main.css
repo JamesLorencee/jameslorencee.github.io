@@ -8,17 +8,12 @@ body {
 
   background-color: var(--bg1);
   color: var(--fg1);
-  font-family: sans-serif;
   line-height: 1.5;
-
+  font-family: "VT323", monospace;
   -webkit-text-size-adjust: none;
   text-size-adjust: none;
 
-  background-image: url("\jameslorenceblogs\themes\nojs\images\kaws.jpg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+
 }
 
 header,
