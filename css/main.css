@@ -9,8 +9,8 @@ body {
   background-color: var(--bg1);
   color: var(--fg1);
   line-height: 1.5;
-  font-family: "VT323", monospace;
-  font-size: 22px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 18px;
   -webkit-text-size-adjust: none;
   text-size-adjust: none;
 
