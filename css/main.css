@@ -9,12 +9,22 @@ body {
   background-color: var(--bg1);
   color: var(--fg1);
   line-height: 1.5;
-  font-family: "IBM Plex Mono", monospace;
-  font-size: 18px;
+  font-family: "VT323", monospace;
+  font-size: 24px;
   -webkit-text-size-adjust: none;
   text-size-adjust: none;
 
 
+}
+
+main h1, h2, strong
+ {
+  color: #af1313;
+}
+
+main h3, em
+{
+color: #9b80c7;
 }
 
 header,
@@ -139,3 +149,4 @@ figcaption {
   color: var(--fg2);
   text-align: center;
 }
+
